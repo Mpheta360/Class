@@ -1,6 +1,6 @@
 # Class
 This is a class practice 
 ## User installation
-*One
-*Two
+* One
+* Two
 ### Header 3
